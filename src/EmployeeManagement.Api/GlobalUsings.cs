@@ -1,0 +1,11 @@
+﻿global using EmployeeManagement.Api;
+global using EmployeeManagement.Application.Interfaces;
+global using EmployeeManagement.Application.Services;
+global using EmployeeManagement.Domain.Entities;
+global using EmployeeManagement.Api.Endpoints;
+global using EmployeeManagement.Infrastructure.DataAccess;
+global using EmployeeManagement.Api.DTOs.Report;
+global using EmployeeManagement.Api.DTOs.Employee;
+global using EmployeeManagement.Api.DTOs.Task;
+global using EmployeeManagement.Domain.Enums;
+global using AutoMapper;

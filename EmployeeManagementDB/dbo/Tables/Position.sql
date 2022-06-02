@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Position]
+(
+	[Id] SMALLINT NOT NULL PRIMARY KEY, 
+	[Description] NVARCHAR(50) NOT NULL
+)
